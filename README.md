@@ -1,2 +1,2 @@
-# e-commerce-front-end
-credits to ali arshadi as developer
+# e-commerce-frontend
+credits to Ali Arshadi as frontend developer
